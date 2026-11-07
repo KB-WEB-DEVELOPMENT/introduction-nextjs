@@ -1,7 +1,7 @@
 'use client'
 
 import Link from "next/link"
-import { useActionState, useEffect } from "react
+import { useActionState, useEffect } from "react"
 import { useRouter } from "next/navigation"
 import { checkUserHasToken,  generateUserToken } from "../../services/users"
 import { getCurrentUser } from "../../services/session"
