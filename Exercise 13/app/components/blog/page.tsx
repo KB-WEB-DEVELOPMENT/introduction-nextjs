@@ -3,7 +3,7 @@
 import { useActionState } from "react"
 import { createBlog } from "../../actions/blogs"
 
-const NewBlog = () => {
+export default const NewBlog = () => {
 	const [state, formAction] = useActionState(createBlog, { error: "" })
 
 	return (
