@@ -15,12 +15,3 @@ export const getCurrentUser = async () => {
 		where: eq(users.username, session.user.username),
 	})
 }
-
-
-
-
-
-
-
-
-
