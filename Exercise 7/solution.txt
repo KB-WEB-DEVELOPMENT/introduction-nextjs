@@ -1,0 +1,23 @@
+1. Initialize Git in project folder
+
+bash
+git init
+git add .
+git commit -m "Initial commit of basic blog app"
+
+2. Create a new repository on GitHub.
+
+3. Link and push your local repository to GitHub:
+
+git remote add origin https://github.com
+git branch -M main
+git push -u origin main
+
+Vercel:
+
+5  Login and go to Vercel Dashboard
+6. Click the "Add New ..." button, select Project.
+7. Import the blog repository (click Import).
+8. Leave the default build settings as they are.
+9. Leave the Environment Variables section empty.
+10. Click Deploy.
