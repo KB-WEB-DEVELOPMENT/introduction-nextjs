@@ -1,2 +1,3 @@
 # introduction-nextjs
-Solutions for the University of Helsinki Full Stack Open Next.js Course Exercises
+
+Solution set for Helsinki University Full Stack Open Next.js Course Exercises
