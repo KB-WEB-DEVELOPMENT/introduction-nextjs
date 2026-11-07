@@ -1,8 +1,8 @@
 'use client'
 
-import { useActionState, useEffect } from "react
+import { useActionState, useEffect } from "react"
 import { useRouter } from "next/navigation"
-import { createBlog ) from "../../actions/blogs"
+import { createBlog } from "../../actions/blogs"
 import { useNotification } from "../../components/NotificationContext"
 
 const NewBlog = () => {
