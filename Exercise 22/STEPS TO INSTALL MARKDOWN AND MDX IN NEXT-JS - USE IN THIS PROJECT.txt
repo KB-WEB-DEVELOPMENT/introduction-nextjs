@@ -1,0 +1,11 @@
+1.    Steps to install and use markdown and MDX in Next.js: 
+
+       https://nextjs.org/docs/pages/guides/mdx#install-dependencies
+
+2.   After the installation, the .markdown class is defined in the css file Exercise 22\app\globals.css .
+
+3.   The class could then for example be used in the typescript file Exercise 22\app\me.page.tsx
+
+example: 
+
+<h2 classname="markdown">My Profile</h2>
