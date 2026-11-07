@@ -1,6 +1,6 @@
 'use client'
 
-import { useActionState from "react"
+import { useActionState } from "react"
 import { createBlog } from "../../actions/blogs"
 
 const NewBlog = () => {
