@@ -1,0 +1,4 @@
+
+You can access the respository containing all tests for the project here:
+
+https://github.com/fullstack-hy2020/next-js-tests
