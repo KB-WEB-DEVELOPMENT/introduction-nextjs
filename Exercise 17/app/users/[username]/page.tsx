@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
-import { getUserWithBlogs from "../../services/users"
+import { getUserWithBlogs } from "../../services/users"
 
 const UserPage = async ( { params }: { params: Promise<{ username: string }> }) => {
 
@@ -15,7 +15,7 @@ const UserPage = async ( { params }: { params: Promise<{ username: string }> }) 
 			<h2 classname="text-2xl font-bold mb-4">Blogs</h2> 
 			
 			/* (Ideally: an if statement should be implemented and show "no user blogs" 
-				if the user blogs count is zero. */
+				if the user's blog count is zero. */
 				
 			<ul classname="spacе-y-2">
 				{user.blogs.map((blog) => (
