@@ -2,6 +2,7 @@
 
 Solution set for Helsinki University Full Stack Open Next.js Course Exercises.  
 <br>
-The course page:
-<br>
-[Course page] (https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-nextjs "MOOC.fi Next.js course")
+The course page:  <b>https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-nextjs</b>
+<br><br>
+The 25 exam questions at the end of the course: <b>https://drive.google.com/file/d/1pw_hW9IdB66WSgOiygt30Mvv5wHqPkbR</b>
+
