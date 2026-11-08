@@ -12,3 +12,4 @@ The 25 exam questions at the end of the course:
 
 <b>https://drive.google.com/file/d/1pw_hW9IdB66WSgOiygt30Mvv5wHqPkbR</b>
 
+Note: For each question, only the relevant files are shown.
